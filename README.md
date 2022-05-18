@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kerem-Ozman
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Html/Css & JS
 
 <!---
 Kerem-Ozman/Kerem-Ozman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
